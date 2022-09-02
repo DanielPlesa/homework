@@ -5,11 +5,9 @@
     <span class="acronym">New polished menu</span>
   </div>
   <ul class="top-links">
-   
     <li><a href="#">Products</a></li>
     <li><a href="#">Pricing</a></li>
     <li><a href="#">Documentation</a></li>
-    
   </ul>
 </nav>
 
